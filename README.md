@@ -45,11 +45,11 @@ The Streamlit app will launch in your web browser, ready to empower your e-comme
 
 **Project Structure**
 
-app.py: Main application script.
-scrape.py (Optional): Script for web scraping competitor data (consider using Selenium for robustness).
-reviews.csv: Sample customer reviews data.
-competitor_data.csv: Sample competitor data.
-requirements.txt: List of required Python libraries.
+* **app.py:** Main application script.
+* **scrape.py** (Optional): Script for web scraping competitor data (consider using Selenium for robustness).
+* **reviews.csv:** Sample customer reviews data.
+* **competitor_data.csv:** Sample competitor data.
+* **requirements.txt:** List of required Python libraries.
 
 **Embrace Continuous Improvement**
 We welcome contributions from the open-source community! Feel free to fork the repository, make your changes, and submit a pull request.
