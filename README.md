@@ -36,3 +36,24 @@ Getting started is a breeze:
 
   Groq API Key: Enhance your strategy with strategic recommendations from Groq. Sign up for a free account and obtain your API key from the Groq dashboard.
   Slack Webhook URL: Integrate real-time notifications into your workflow. Create a new Slack app, enable Incoming Webhooks, and copy the generated URL.
+
+4.**Run the Application: Open your terminal and execute:**
+
+    ```bash
+    streamlit run app.py
+The Streamlit app will launch in your web browser, ready to empower your e-commerce strategy!
+
+**Project Structure**
+
+app.py: Main application script.
+scrape.py (Optional): Script for web scraping competitor data (consider using Selenium for robustness).
+reviews.csv: Sample customer reviews data.
+competitor_data.csv: Sample competitor data.
+requirements.txt: List of required Python libraries.
+
+**Embrace Continuous Improvement**
+We welcome contributions from the open-source community! Feel free to fork the repository, make your changes, and submit a pull request.
+
+**License**
+This project is licensed under the MIT License.
+  
